@@ -1,5 +1,5 @@
-# React-Blog
-React, Redux, Working with JSON data,
+# React-Redux-Blog
+React, Redux, Webpack, AJAX, Working with JSON data
 
 coding.....
 
